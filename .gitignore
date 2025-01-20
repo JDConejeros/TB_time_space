@@ -47,3 +47,11 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# Project folder 
+Docs/
+Input/
+Output/
+Paper/
+Papers/
+Products/
